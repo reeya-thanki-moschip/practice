@@ -12,3 +12,4 @@ today_curr=date.today()
 time_curr=datetime.now()
 curr_time=time_curr.strftime("%H:%M:%s")
 print(today_curr,curr_time)
+#reeyaThanki
